@@ -1,4 +1,4 @@
-import { featureproductnav} from ".featureproduct.js"
+import { featureproductnav} from "featureproduct.js"
 let input_search = document.getElementById("Search_input")
 let form_search = document.getElementById("search_form")
 let recentArray=["Mobile","phone"]
